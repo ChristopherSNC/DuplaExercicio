@@ -75,7 +75,7 @@ public class CadastroLivros extends javax.swing.JFrame {
             }
         });
 
-        txtPreço.setText("*toin toin toin toin\"");
+        txtPreço.setText("*toin toin toin toin\" Ye Zong still alive in one soul HAHAHAHAHAHA  ");
 
         btCadastrar.setText("Cadastrar");
 
